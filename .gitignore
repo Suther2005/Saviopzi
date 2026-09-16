@@ -1,0 +1,20 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
+
+# Build outputs
+/frontend/dist/
+/backend/target/
+*.jar
+*.war
+
+# Node
+node_modules/
+npm-debug.log
+
+# Mac
+.DS_Store
